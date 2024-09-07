@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,112114.eu.org
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,23.225.92.244/32,no-resolve
+IP-CIDR,23.225.92.242/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
