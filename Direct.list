@@ -13,11 +13,25 @@ DOMAIN-KEYWORD,cdnlz
 DOMAIN-KEYWORD,lziapi
 DOMAIN-KEYWORD,ffzy
 DOMAIN-KEYWORD,112114.eu.org
+DOMAIN-KEYWORD,inner-active.mobi
+DOMAIN-KEYWORD,mobilefuse.com
+DOMAIN-KEYWORD,inmobi.com
+DOMAIN-KEYWORD,crashlytics.com
+DOMAIN-KEYWORD,talkatone.com
+DOMAIN-KEYWORD,kochava.com
+DOMAIN-KEYWORD,cohere.com
+DOMAIN-KEYWORD,ip-api.com
+DOMAIN-KEYWORD,agkn.com
+DOMAIN-KEYWORD,tktn.at
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,23.225.92.244/32,no-resolve
 IP-CIDR,23.225.92.242/32,no-resolve
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
