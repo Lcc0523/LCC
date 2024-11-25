@@ -6,6 +6,16 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -13,16 +23,6 @@ DOMAIN-KEYWORD,cdnlz
 DOMAIN-KEYWORD,lziapi
 DOMAIN-KEYWORD,ffzy
 DOMAIN-KEYWORD,112114.eu.org
-DOMAIN-KEYWORD,inner-active.mobi
-DOMAIN-KEYWORD,mobilefuse.com
-DOMAIN-KEYWORD,inmobi.com
-DOMAIN-KEYWORD,crashlytics.com
-DOMAIN-KEYWORD,talkatone.com
-DOMAIN-KEYWORD,kochava.com
-DOMAIN-KEYWORD,cohere.com
-DOMAIN-KEYWORD,ip-api.com
-DOMAIN-KEYWORD,agkn.com
-DOMAIN-KEYWORD,tktn.at
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
